@@ -1,0 +1,73 @@
+body{
+    background-color: bisque;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    background-color: black;
+    width: 1000px;
+    border-radius: 30px;
+    margin: 0px auto;
+    border: 5px solid gold;
+
+}
+
+.gift-cover{
+    background-image: url("gift-cover.1.jpg");
+    background-size: cover;
+    border: 5px solid gold;
+    width: 700px;
+    height: 700px;
+    border-radius: 10px;
+}
+
+#bio{
+    width: 300px;
+    border-radius: 50%;
+}
+
+#date, 
+#only{
+    margin-top: 0px;
+}
+
+.head{
+    margin-top: 50px;
+}
+
+#last{
+    margin: 70px 0px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: medium;
+}
+
+#excited:hover{
+    background-image: url("200w.webp");
+    background-size: cover;
+}
+
+#dance:hover{
+    background-image: url("giphy.webp");
+    background-size: cover;
+}
+
+#great:hover{
+    background-image: url("greatest.webp");
+    background-size: cover;
+}
+
+#tupac:hover{
+    background-image: url("tupac.webp");
+    background-size: cover;
+}
+
+#xo:hover{
+    background-image: url("xo\ til.gif");
+    background-size: cover;
+    
+}

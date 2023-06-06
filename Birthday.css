@@ -20,8 +20,8 @@ body{
     background-image: url("gift-cover.1.jpg");
     background-size: cover;
     border: 5px solid gold;
-    width: 700px;
-    height: 700px;
+    width: 500px;
+    height: 500px;
     border-radius: 10px;
 }
 
